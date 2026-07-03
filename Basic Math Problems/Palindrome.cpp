@@ -28,9 +28,9 @@ bool isPalindrome(long x)
 
 int main()
 {
-	int n;
+	int x;
 	cout<<"Enter Number - ";
-	cin>>n;
-	isPalindrome(n);
+	cin>>x;
+	isPalindrome(x);
 	return 0;
 }
