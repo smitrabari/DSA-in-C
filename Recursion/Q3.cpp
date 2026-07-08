@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-//Pirnt Linearly from 1 to N in REVERSE!!
+//Pirnt Linearly from N to 1!!
 
 void Linearly(int i, int n)
 {
