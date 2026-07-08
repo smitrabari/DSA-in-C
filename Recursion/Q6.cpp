@@ -1,6 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+//Sum of first N number sum!!
+
 void Sumation(int n,int sum)
 {
 	if(n<1)
