@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-//Pirnt Linearly from 1 to N
+//Pirnt Linearly from 1 to N using backtraking!!
 
 void Linearly(int i, int n)
 {
