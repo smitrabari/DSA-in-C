@@ -5,7 +5,11 @@ using namespace std;
 
 int rev(int i,int n)
 {
-	
+	if(i>=n)
+	{
+		return;
+	}
+	return rev(i+1,n-1);
 }
 
 int main()
