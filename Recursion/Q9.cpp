@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-//Reverse an Array!!
+//Reverse an Array!
 
 int rev(int i,int n)
 {
