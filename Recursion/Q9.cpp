@@ -7,7 +7,7 @@ int rev(int i,int n)
 {
 	if(i>=n)
 	{
-		return;
+		return
 	}
 	return rev(i+1,n-1);
 }
