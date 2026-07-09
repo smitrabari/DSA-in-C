@@ -3,19 +3,15 @@ using namespace std;
 
 //Reverse an Array!!
 
-int Fact(int n)
+int rev(int i,int n)
 {
-	if(n==1)
-	{
-		return 0;
-	}
-	return n * Fact(n-1);
+	
 }
 
 int main()
 {
-	int arr[n] = {};
 	int n = 5;
-	Fact(n);
+	int arr[n] = {1,3,2,5,4};
+	rev(0,n);
 	return 0;
 }
