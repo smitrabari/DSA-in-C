@@ -15,7 +15,7 @@ int rev(int i,int n)
 int main()
 {
 	int n = 5;
-	int arr[n] = {1,3,2,5,4};
+	int arr[n] = {1,3,4,5,2,5,4};
 	rev(0,n);
 	return 0;
 }
