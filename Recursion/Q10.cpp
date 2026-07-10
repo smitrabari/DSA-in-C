@@ -9,7 +9,7 @@ void rev(int i,int n,int arr[])
 	{
 		return ;
 	}
-	swap(arr[i],arr[n-1s]);
+	swap(arr[i],arr[n-1]);
 	rev(i+1,n-1,arr);
 }
 
