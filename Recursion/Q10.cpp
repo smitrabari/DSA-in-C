@@ -1,16 +1,16 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-//Reverse an Array using Single Variable!!
+//Reverse an Array using 2 pointers!!
 
 void rev(int i,int n,int arr[])
 {
-	if(i >= n/2)
+	if(i >= n)
 	{
 		return ;
 	}
-	swap(arr[i],arr[n-i-1]);
-	rev(i+1,n,arr);
+	swap(arr[i],arr[n-1s]);
+	rev(i+1,n-1,arr);
 }
 
 int main()
