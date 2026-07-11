@@ -1,6 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+//Char Hashing!!
+
 int main()
 {
 	// Input of Array size and Array Elements!!
