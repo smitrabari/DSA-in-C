@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-	// Input of Array size and Array Elements!!
+	// Input of Array size & Array Elements!!
 	int n;
 	cout<<"Size";
 	cin>>n;
